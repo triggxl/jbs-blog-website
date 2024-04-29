@@ -1,0 +1,16 @@
+#NavBarMenu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  background-color: #f1f1f1;
+}
+
+#portfolioPhoto {
+  height: 200px;
+  padding: 50px;
+  
+}
+
+/* style nav bar */
+/* In CSS, classes are prefixed by a ., ids are prefixed by #, and elements are not prefixed at all. */
