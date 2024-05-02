@@ -1,14 +1,14 @@
+
 #NavBarMenu li{
   display: inline;
   margin: 10px;
-  width: 50%;
-  height: 50%;
-  text-align: center;
+  /* center responsively? */
 }
 
 #portfolioPhoto {
   height: 200px;
   padding: 50px;
+  margin-left: 25%;
 }
 
 /* style nav bar */
