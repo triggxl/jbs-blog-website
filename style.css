@@ -1,14 +1,26 @@
 
 #NavBarMenu li{
   display: inline;
+  position: relative;
+  top: 50px;
+  left: 50px;
+  bottom: 15px;
   margin: 10px;
+  padding: 10px;
+  background-color: aliceblue;
+  border-radius: 50%;
   /* center responsively? */
 }
 
+a {
+  text-decoration: none;
+}
+
 #portfolioPhoto {
-  height: 200px;
   padding: 50px;
-  margin-left: 25%;
+  margin-top: 13%;
+  margin-left: 30%;
+  border-radius: 8%;
 }
 
 /* style nav bar */
