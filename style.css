@@ -1,15 +1,14 @@
-#NavBarMenu {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 300px;
-  background-color: #f1f1f1;
+#NavBarMenu li{
+  display: inline;
+  margin: 10px;
+  width: 50%;
+  height: 50%;
+  text-align: center;
 }
 
 #portfolioPhoto {
   height: 200px;
   padding: 50px;
-  
 }
 
 /* style nav bar */
