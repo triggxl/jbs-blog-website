@@ -1,3 +1,6 @@
+body{
+  background-color: rgb(16, 90, 117);
+}
 
 #NavBarMenu li{
   display: inline;
