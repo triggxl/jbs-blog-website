@@ -1,3 +1,4 @@
+/* landing page */
 body{
   background-color: rgb(16, 90, 117);
 }
@@ -20,10 +21,36 @@ a {
 }
 
 #portfolioPhoto {
+  z-index: 0;
   padding: 50px;
   margin-top: 13%;
   margin-left: 30%;
   border-radius: 8%;
+}
+
+/* Poetry Page */
+.img-stgrd-lt {
+  z-index: -1;
+  position: relative;
+  top: 150px;
+  left: 350px;
+  width: 700px;
+  height: 500px;
+}
+.div > pre {
+  position: absolute;
+  text-align: center;
+  top: 150px;
+  left: 250px;
+}
+
+.img-stgrd-rt {
+  z-index: -1;
+  position: relative;
+  top: 140px;
+  left: 70px;
+  width: 700px;
+  height: 500px;
 }
 
 /* style nav bar */
