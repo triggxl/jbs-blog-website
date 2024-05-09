@@ -14,24 +14,14 @@ a {
   text-decoration: none;
 }
 
-.img-stgrd-lt {
-  z-index: -1;
-  position: absolute;
-  /* top: 250px;
-  left: 250px; */
-  width: 500px;
-  height: 300px;
-  transform: rotate(10deg);
+.poems > .rudy {
+  background-image: url("./images/paper-background.jpeg");
+  text-align: center;
+  padding: 20px;
 }
 
-.img-stgrd-rt {
-  z-index: -1;
-  position: relative;
-  /* top: 120px;
-  left: 50px; */
-  width: 500px;
-  height: 300px;
-  transform: rotate(-30deg);
+img {
+  display: inline;
 }
 
 /* Tasks:
