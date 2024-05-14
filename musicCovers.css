@@ -1,0 +1,14 @@
+
+#NavBarMenu li{
+  display: inline-block;
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  background-color: aliceblue;
+  border-radius: 50%;
+  /* center responsively? */
+}
+
+a {
+  text-decoration: none;
+}
