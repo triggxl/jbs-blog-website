@@ -3,11 +3,12 @@ body{
   background-color: rgb(16, 90, 117);
 }
 
-#NavBarMenu li{
+#NavBarMenu li {
   display: inline-block;
   position: relative;
-  margin: 10px;
+  margin: 30px;
   padding: 10px;
+  font-size: 1.6em;
   background-color: aliceblue;
   border-radius: 50%;
   /* center responsively? */
